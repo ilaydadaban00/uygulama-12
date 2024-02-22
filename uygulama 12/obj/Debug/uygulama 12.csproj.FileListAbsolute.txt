@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\bin\Debug\uygulama 12.exe.config
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\bin\Debug\uygulama 12.exe
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\bin\Debug\uygulama 12.pdb
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\obj\Debug\uygulama 12.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\obj\Debug\uygulama_12.Form1.resources
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\obj\Debug\uygulama_12.Properties.Resources.resources
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\obj\Debug\uygulama 12.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\obj\Debug\uygulama 12.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\obj\Debug\uygulama 12.exe
+C:\Users\Seyda\source\repos\uygulama 12\uygulama 12\obj\Debug\uygulama 12.pdb
